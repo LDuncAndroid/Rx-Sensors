@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Rx Sensors</string>
+    <string name="rotation_data_string">X: %1$f\nY: %2$f\nZ: %3$f\nScalar:%4$f</string>
+</resources>
